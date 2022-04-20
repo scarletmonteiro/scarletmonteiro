@@ -1,4 +1,7 @@
 ### Olá ! 🙋‍♀️ 
+Iniciei meus estudos em Análise e Desenvolvimento de Sistemas | Faculdade Anhanguera em novembro de 2021.
+Tenho conhecimento JR em front-end.
+Em busca de novos desafios !!!!
 <br>
 
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarletfmonteiro/)
@@ -9,7 +12,7 @@
 ### Linguagens mas utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarletmonteiro&layout=compact)](https://github.com/scarletmonteiro/github-readme-stats)
 
-### TECNOLOGIAS QUE UITILIZO NO MEU DIA DIA
+### TECNOLOGIAS QUE UTILIZO NO MEU DIA A DIA
 
 <div styles="display: inline_block"><br>
 <img align="center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
