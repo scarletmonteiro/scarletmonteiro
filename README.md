@@ -4,8 +4,8 @@ Tenho conhecimento JR em front-end.
 Em busca de novos desafios !!!!
 <br>
 
-[![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarletfmonteiro/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scar.monteiro/)
+[![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarletmonteiro/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scar.fms/)
 
 ![scarlet git hub status](https://github-readme-stats.vercel.app/api?username=scarletmonteiro&show_icons=true&theme=dracula)
 
